@@ -1,1 +1,2 @@
-# Example code for lab1
+# duke-coursera-ccf-lab1
+Example code for lab1
